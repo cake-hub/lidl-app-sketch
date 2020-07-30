@@ -5,7 +5,7 @@ Please ensure to comply with the corporate identity. A detailed list what can be
 
 # Badges
 
-Use it for a number of functions, but mostly to demonstrate status and progress to the customer.
+Use it for a number of functions, but mostly to demonstrate status and pr  ogress to the customer.
 
 Basically they are positioned in the product tile or the tabbar.
 
@@ -78,8 +78,8 @@ Basically they are positioned in the product tile or the tabbar.
 | Types | Attributes | Preview |
 |---|---|---|
 | Horizontal spacing | padding: 0px | ![horizontal-spacing](assets/measurements/addon/horizontal-spacing@1x.png) |
-| Size | LG: 20px<br>MD-XS: 16px | ![vertical-spacing](assets/measurements/addon/height@1x.png) |
-| Position | Overlaps an icon by 50% to the right<br>Text expands the element to the left  | ![position](assets/addon/position/double@1x.png) |
+| Size | 16px | ![vertical-spacing](assets/measurements/addon/height@1x.png) |
+| Position | Overlaps an icon by 50% to the right<br>Text expands the element to the left | ![position](assets/addon/position/double@1x.png) |
 
 ---
 

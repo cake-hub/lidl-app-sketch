@@ -6,7 +6,7 @@
 
 The use of the consistent Lidl pricebox is an elementary part of our brand awareness.
 
-The pricebox contains several fix and optional elements and is available in different color combinations due to different visualizations (standard, offer, etc.).
+The pricebox contains several fix and optional elements and is available in different color combinations due to different visualizations (standard, offer, lidl-plus, etc.).
 
 ---
 
@@ -26,10 +26,13 @@ The pricebox contains several fix and optional elements and is available in diff
 - The text-style is **pricebox-addon** for asterisk, currency & prefix.
 - Additionally you can choose between a pricebox with or without prefix.
 
+**Hint!** The usage of the Lidl Plus pricebox must be coordinated with and permitted by the legal department of your Lidl country.
+
 | Types | Attributes | Preview |
 |---|---|---|
 | Basic | text-color: gray-darker <br> background-color: basic-white <br> outline-color: gray-light |![basic pricebox](assets/basic-box/small-no-prefix@1x.png) ![small pricebox with prefix](assets/basic-box/small-with-prefix@1x.png)|
 | Action | text-color: basic-white <br> background-color: danger-base <br> outline-color: danger-base |![action pricebox](assets/basic-box/small-no-prefix-action@1x.png) ![action pricebox with prefix](assets/basic-box/small-with-prefix-action@1x.png) |
+| Offer<br>(only lidl-plus) | text-color: gray-darker <br> background-color: mark-base <br> outline-color: mark-base |![offer pricebox](assets/basic-box/small-no-prefix-offer@1x.png) ![action pricebox with prefix](assets/basic-box/small-with-prefix-offer@1x.png) |
 
 ## Sizes
 
@@ -56,7 +59,7 @@ The pricebox contains several fix and optional elements and is available in diff
 | Types | Attributes | Preview |
 |---|---|---|
 | Action | text-color: basic-white <br> background-color: danger-base | ![action label](assets/elements/labels/action@1x.png) |
-| Info | text-color: basic-white <br> background-color: brand-primary-base | ![info label](assets/elements/labels/info@1x.png) |
+| Info | text-color: basic-white <br> background-color: info-base | ![info label](assets/elements/labels/info@1x.png) |
 | Offer | text-color: gray-darker <br> background-color: mark-base | ![offer label](assets/elements/labels/offer@1x.png) |
 
 ---
@@ -144,12 +147,15 @@ The pricebox contains several fix and optional elements and is available in diff
 - There are **only four different combinations** of priceboxes and labels in the Lidl universe.
 - They are called "themes".
 
+**Hint!** The usage of the Lidl Plus pricebox must be coordinated with and permitted by the legal department of your Lidl country.
+
 | Types | Attributes | Preview |
 |---|---|---|
 | Offer #1 | label: action <br> pricebox: standard | ![offer #1](assets/combinations/offer-1@1x.png) |
 | Offer #2 | label: offer <br> pricebox: standard | ![offer #2](assets/combinations/offer-2@1x.png) |
 | Special offer | label: offer <br> pricebox: action | ![special offer](assets/combinations/special-offer@1x.png) |
 | Info | Label: info <br> pricebox: standard | ![info offer](assets/combinations/info@1x.png) |
+| Lidl Plus | Label: info <br> pricebox: offer | ![info offer](assets/combinations/lidl-plus@1x.png) |
 
 ---
 
