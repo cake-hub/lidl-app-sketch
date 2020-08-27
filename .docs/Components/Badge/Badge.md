@@ -5,7 +5,7 @@ Please ensure to comply with the corporate identity. A detailed list what can be
 
 # Badges
 
-Use it for a number of functions, but mostly to demonstrate status and pr  ogress to the customer.
+Use it for a number of functions, but mostly to demonstrate status and progress to the customer.
 
 Basically they are positioned in the product tile or the tabbar.
 
@@ -17,7 +17,7 @@ Basically they are positioned in the product tile or the tabbar.
 
 | Standard | Addon |
 |---|---|
-| Use it alone or in conjunction with text. | Used in the user-navigation of the tabbar. |
+| Use it alone or in conjunction with text. | Used in the user-navigation of the tab bar. |
 
 ---
 

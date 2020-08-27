@@ -2,7 +2,7 @@
 Please ensure to comply with the corporate identity. A detailed list what can be modified can be found [here](#what-can-be-modified).
 </AlertInfo>
 
-# User info
+# User Info
 
 The user info notifications gives the user information about interactions that are happening in the current moment. It only shows system based information like "Item added to your basket". It automatically slides from above into the screen.
 

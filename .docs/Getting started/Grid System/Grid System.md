@@ -11,7 +11,8 @@ A grid system can be use to align and size objects within a given format.
 ## Usage
 
 - Basic rules that help you to set up your pages in Sketch.
-- The amount, width and spacing of the columns change with each breakpoint.
+- The amount, width and spacing of the columns change with the breakpoint.
+- The mobile development can independently use its preferred grid system.
 
 ---
 
@@ -25,70 +26,27 @@ A grid system can be use to align and size objects within a given format.
 
 ## Settings in Sketch
 
-- There are 5 different artboard sizes for 6 different devices.
-- The artboards for **Apple iPad 9.7"** and **ASUS Nexus 9** are identical.
+- There are 4 different artboard sizes.
+- There are artboards for phone and tablet view.
 
-### iOS
+**Hint!** If you need to create the layout on a different device size please stick to the defined gutters and offset. The viewport and columns will then result accordingly.
 
-#### iPhone SE
+### Phone
 
-| Artboard | iPhone SE (portrait) | iPhone SE (landscape) |
-|---|---|---|
-| Viewport | 375px | 667px |
-| Columns | 4 columns | 12 columns |
-| Gutters | 8px | 8px |
-| Offset (Margins) | 16px / 16px | 32px / 32px |
-| Layout settings | ![iPhone SE: portrait](assets/iOS/sketch_layout_SE_PT@1x.png) | ![iPhone SE: Landscape](assets/iOS/sketch_layout_SE_LS@1x.png) |
-
-#### iPad 9,7"
-
-| Artboard | iPad 9,7" (portrait) | iPad 9,7" (landscape) |
-|---|---|---|
-| Viewport | 768px | 1024px |
-| Columns | 12 columns | 12 columns |
-| Gutters | 16px | 16px |
-| Offset (Margins) | 32px / 32px | 64px / 64px |
-| Layout settings | ![iPad: Portrait](assets/iOS/sketch_layout_iPad_PT@1x.png) | ![iPad: Landscape](assets/iOS/sketch_layout_iPad_LS@1x.png) |
-
-#### iPad 12,9"
-
-| Artboard | iPad 12,9" (portrait) | iPad 12,9" (landscape) |
-|---|---|---|
-| Viewport | 1024px | 1366px |
-| Columns | 12 columns | 12 columns |
-| Gutters | 16px | 16px |
-| Offset (Margins) | 64px / 64px | 128px / 128px |
-| Layout settings | ![iPad Pro: Portrait](assets/iOS/sketch_layout_iPadPro_PT@1x.png) | ![iPad Pro: Landscape](assets/iOS/sketch_layout_iPadPro_LS@1x.png) |
-
-
-### Android
-
-#### Smartphone
-
-| Artboard | Android (portrait) | Android (landscape) |
+| Artboard | portrait mode | landscape mode |
 |---|---|---|
 | Viewport | 360px | 640px |
-| Columns | 4 columns | 12 columns |
+| Columns | 8 columns | 8 columns |
 | Gutters | 8px | 8px |
-| Offset (Margins) | 16px / 16px | 32px / 32px |
-| Layout settings | ![Android: Portrait](assets/android/sketch_layout_Android_PT@1x.png) | ![Android: Landscape](assets/android/sketch_layout_Android_LS@1x.png) |
+| Offset/border | 16px / 16px | 16px / 16px |
+| Layout settings | ![Phone portrait](assets/Phone/portrait@1x.png) | ![Phone landscape](assets/Phone/landscape@1x.png) |
 
-#### Nexus 7
+### Tablet
 
-| Artboard | Nexus 7 (portrait) | Nexus 7 (landscape) |
-|---|---|---|
-| Viewport |600px | 960px |
-| Columns | 12 columns | 12 columns |
-| Gutters | 16px | 16px |
-| Offset (Margins) | 32px / 32px | 64px / 64px |
-| Layout settings | ![Nexus 7: Portrait](assets/android/sketch_layout_Nexus7_PT@1x.png) | ![Nexus 7: Landscape](assets/android/sketch_layout_Nexus7_LS@1x.png)
-
-#### Nexus 9
-
-| Artboard | Nexus 9 (portrait) | Nexus 9 (landscape) |
+| Artboard | portrait mode | landscape mode |
 |---|---|---|
 | Viewport | 768px | 1024px |
 | Columns | 12 columns | 12 columns |
 | Gutters | 16px | 16px |
-| Offset (Margins) | 32px / 32px | 64px / 64px |
-| Layout settings | ![Nexus 9: Portrait](assets/android/sketch_layout_Nexus9_PT@1x.png) | ![Nexus 9: Landscape](assets/android/sketch_layout_Nexus9_LS@1x.png) |
+| Offset (Margins) | 32px / 32px | 32px / 32px |
+| Layout settings | ![Tablet portrait](assets/Tablet/portrait@1x.png) | ![Tablet landscape](assets/Tablet/landscape@1x.png) |
