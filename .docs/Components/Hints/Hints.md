@@ -10,8 +10,8 @@ The hint notifications gives the user information about important content inform
 
 ## General information
 
-- Our "info" hint matches our brand-primary color => Blue is the best color to demonstrate an "info" hint in UX, in our case and in online studies. Part of the Lidl brand colors is "blue" and also the "brand-primary-color" on a digital device. It didn't make sense to create a new color "blue" as an "info" purpose. That's why the "brand-primary-color" for Lidl actually matches the "info" color. But if, for example, the "brand-primary-color" for Lidl will change at some point, only the components using the "brand-primary-color" will change but all the info elements will stay "blue".
-- The mobile hints matches the look of the web UI Kit alerts.
+- **Our "info" hint matches our brand-primary color**. Blue is the best color to demonstrate an "info" hint in UX, in our case and in online studies. Part of the Lidl brand colors is "blue" and also the "brand-primary-color" on a digital device. It didn't make sense to create a new color "blue" as an "info" purpose. That's why the "brand-primary-color" for Lidl actually matches the "info" color. But if, for example, the "brand-primary-color" for Lidl will change at some point, only the components using the "brand-primary-color" will change but all the info elements will stay "blue".
+- The mobile hints matches the look of the [CAKE Web alerts](../../../../Web/Design/Components/Alert/Alert.html).
 
 ---
 

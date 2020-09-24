@@ -15,7 +15,7 @@ It can be modified to visualize tiles like the online shop categories tile, flye
 - Ideally, the tile title should be single-line or a maximum of two lines.
 - The look of the default selection tile is not mandatory. We only deliver a default selection tile that can be modified to your projects needs.
 - There are two versions. One with picture and one with icon.
-- Change the text styles for your project needs but please stick to the given [text styles](../../../Web/Design/General/Typography.md) of CAKE.
+- Change the text styles for your project needs but please stick to the given [text styles](../../../../Web/Design/General/Typography/Typography.md) of CAKE.
 - Ideally use a image ratio of 4:3 but a free ratio is also possible.
 
 ---
