@@ -7,7 +7,7 @@ Please ensure to comply with the corporate identity. A detailed list what can be
 
 Use it for a number of functions, but mostly to demonstrate status and progress to the customer.
 
-Basically they are positioned in the product tile or the tabbar.
+Basically they are positioned in the product tile or the tab bar.
 
 ---
 
@@ -55,11 +55,11 @@ Basically they are positioned in the product tile or the tabbar.
 
 ## Addon
 
-- This badge is called **addon** and is only used in the user-navigation section of the tabbar.
+- This badge is called **addon** and is only used in the user-navigation section of the tab bar.
 
 | Attributes | Preview |
 |---|---|
-| font-size: 12px<br>line-height: 100%<br>text-color: basic-white<br>background-color: brand-primary-base  | ![pill: LG](assets/addon/single-double@1x.png) |
+| font-size: 10px<br>line-height: 100%<br>text-color: basic-white<br>background-color: brand-primary-base  | ![pill: LG](assets/addon/single-double@1x.png) |
 
 ---
 

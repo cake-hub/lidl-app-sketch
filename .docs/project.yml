@@ -1,5 +1,6 @@
-version: 1.0.0
-product: Mobile
+version: 1.1.0
+company: Lidl
+product: App
 productIcon: smartphone
 section: Design
 sectionIcon: pencil-ruler
