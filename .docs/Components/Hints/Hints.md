@@ -10,7 +10,7 @@ The hint notifications gives the user information about important content inform
 
 ## General information
 
-- **Our "info" hint matches our brand-primary color**. Blue is the best color to demonstrate an "info" hint in UX, in our case and in online studies. Part of the Lidl brand colors is "blue" and also the "brand-primary-color" on a digital device. It didn't make sense to create a new color "blue" as an "info" purpose. That's why the "brand-primary-color" for Lidl actually matches the "info" color. But if, for example, the "brand-primary-color" for Lidl will change at some point, only the components using the "brand-primary-color" will change but all the info elements will stay "blue".
+- **Our "info" hint matches our brand-primary color**. Blue is the best color to demonstrate an "info" hint in UX, in our case and in online studies. Part of the LIDL brand colors is "blue" and also the "brand-primary-color" on a digital device. It didn't make sense to create a new color "blue" as an "info" purpose. That's why the "brand-primary-color" for LIDL actually matches the "info" color. But if, for example, the "brand-primary-color" for LIDL will change at some point, only the components using the "brand-primary-color" will change but all the info elements will stay "blue".
 - The mobile hints matches the look of the [CAKE Web alerts](../../../../Web/Design/Components/Alert/Alert.html).
 
 ---
@@ -32,7 +32,8 @@ The hint notifications gives the user information about important content inform
 
 ## Overall styling
 
-- The text style is **large-bold** for the **title** and **basic** for the **text**.
+- The text style is [large-bold](https://www.cake.schwarz/Lidl/Web/Design/General/Typography/Typography.html#large-bold) for the **title** and [basic](https://www.cake.schwarz/Lidl/Web/Design/General/Typography/Typography.html#basic) for the **text**.
+- The line-height for the "hint title" is **120%**, it stays **140%** for the "hint text".
 - Every variant uses the **darker-color** as **text-** and **icon-color**.
 - The outline comes in **base-color**.
 - The alert background always is the main-color's **background-color**.
@@ -63,8 +64,8 @@ The hint notifications gives the user information about important content inform
 | Version | Attributes | Preview |
 |---|---|---|
 | primary | text- & icon-color: primary-darker<br>outline-color: primary-base<br>background-color: primary-background | ![primary](assets/text/brand-primary@1x.png) |
-| danger | text- & icon-color: danger-darker<br>outline-color: danger-base<br>background-color: danger-background | ![danger](assets/text/danger@1x.png) |
 | info | text- & icon-color: info-darker<br>outline-color: info-base<br>background-color: info-background | ![info](assets/text/info@1x.png) |
+| danger | text- & icon-color: danger-darker<br>outline-color: danger-base<br>background-color: danger-background | ![danger](assets/text/danger@1x.png) |
 | success | text- & icon-color: success-darker<br>outline-color: success-base<br>background-color: success-background | ![success](assets/text/success@1x.png) |
 
 ---
@@ -94,3 +95,4 @@ The hint notifications gives the user information about important content inform
 ### Our workflow in Sketch
 
 - Use the „Overrides“-function to select the required variant, to edit the content, to change the icon if necessary or if the hint can’t be closed.
+- 

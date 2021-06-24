@@ -17,7 +17,7 @@ Basically they are positioned in the product tile or the tab bar.
 
 | Standard | Addon |
 |---|---|
-| Use it alone or in conjunction with text. | Used in the user-navigation of the tab bar. |
+| Use it alone or in conjunction with text. | Use it in the user-navigation of the tab bar. |
 
 ---
 
@@ -30,9 +30,9 @@ Basically they are positioned in the product tile or the tab bar.
 
 ## Overall styling
 
-- The font-size depends on the component but is always **bold**.
-- The text-color always is **basic-white**.
+- The font-size depends on the component but is always [basic bold](../../../../Web/Design/General/Typography/Typography.md#basic-bold).
 - The line-height is **120%**.
+- The text-color always is **basic-white**.
 - The border is in **basic-white** with a **1px thickness**.
 - It always has rounded corners of **50% of its height**.
 
@@ -41,7 +41,7 @@ Basically they are positioned in the product tile or the tab bar.
 ## Standard
 
 - This badge is called **standard** it can be used alone or in conjunction with a text.
-- It comes in 2 different sizes depending of the corresponding text-styles.
+- It comes in **2 different sizes** depending of the corresponding text-styles.
 - The badge has 4 colored variations: **primary**, **highlight**, **gray** and **info**.
 
 | Types | Attributes | Preview |
@@ -69,15 +69,15 @@ Basically they are positioned in the product tile or the tab bar.
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Horizontal spacing | padding: 8px | ![horizontal-spacing](assets/measurements/standard/horizontal-spacing@1x.png) |
-| Vertical spacing | padding: 2px | ![vertical-spacing](assets/measurements/standard/vertical-spacing@1x.png) |
+| Horizontal spacing for **small** and **basic** badges | padding: 8px | ![horizontal-spacing](assets/measurements/standard/horizontal-spacing@1x.png) |
+| Vertical spacing for **small** and **basic** badges | padding: 2px | ![vertical-spacing](assets/measurements/standard/vertical-spacing@1x.png) |
 | Distances | margin: 8px | ![distance](assets/measurements/standard/distance@1x.png) |
 
 ### Addon
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Horizontal spacing | padding: 0px | ![horizontal-spacing](assets/measurements/addon/horizontal-spacing@1x.png) |
+| Horizontal spacing | padding: 4px | ![horizontal-spacing](assets/measurements/addon/horizontal-spacing@1x.png) |
 | Size | 16px | ![vertical-spacing](assets/measurements/addon/height@1x.png) |
 | Position | Overlaps an icon by 50% to the right<br>Text expands the element to the left | ![position](assets/addon/position/double@1x.png) |
 

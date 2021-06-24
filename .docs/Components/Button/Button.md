@@ -33,17 +33,19 @@ The actions can be separated into two buttons. The design of two different butt
 
 ## Types
 
-- You can use different types of buttons: label, label with icon, icon.
+- You can use different types of buttons: **label, label with icon, icon**.
 - All devices have the same buttons sizes.
-- Each button level is available in a positive and a negative version – this allows you to layout on a light or dark background.
+- Each button level is available in a **positive** and a **negative** version – this allows you to layout on a light or dark background.
+
+> Use our positive buttons only on the following "light" backgrounds: **basic-white**, **gray-background** and any **lighter**-color. All other colors are "dark" backgrounds and use our negative buttons.
 
 ### Primary
 
-- Our primary button is also our Call-to-Action (CTA) button.
+- Our primary button is also our **Call-to-Action (CTA)** button.
 - It only should be used once per page.
 - It gives the user a hint to fulfill his task.
 - It's used to guide the user into taking certain actions.
-- It usually invites users to sign in, register, purchase, etc.
+- It usually invites users to: sign in, register, purchase, etc.
 - It is used to strongly suggest something that "we" want the user to do in first place.
 
 
@@ -72,51 +74,52 @@ The actions can be separated into two buttons. The design of two different butt
 
 ## Overall styling
 
-- The text-style is **button-text**.
+- The text-style is [button-text](../../../../Web/Design/General/Typography/Typography.md#button-text)
+- The line-height is set to **default**.
 - All buttons have **rounded corners** with **2px radius**.
 - Secondary buttons have a **outline** with a **1px thickness**.
 
 ### Positive
 
-- Hover, focus & active states have an additional basic-black with **32% opacity** to the background.
+- Active states have an additional basic-black with **32% opacity** to the background.
 - Disabled states have a background and font colors with **16% opacity**.
 
 #### Primary
 
 | State | Attributes | Preview |
 |---|---|---|
-| Default | background: brand-primary-base<br>text-color: basic-white | ![Primary default](assets/states/positive/primary/default@1x.png) |
-| Hover, focus and active | background: brand-primary-base<br>_additional basic-black with 32% opacity_<br>text-color: basic-white | ![Primary hover, focus & active](assets/states/positive/primary/active@1x.png) |
-| Disabled | background: brand-primary-base<br>_with 16% opacity_<br>text-color: brand-primary-base<br>_with 16% opacity_ | ![Primary disabled](assets/states/positive/primary/disabled@1x.png) |
+| Default | background-color: brand-primary-base<br>text-color: basic-white | ![Primary default](assets/states/positive/primary/default@1x.png) |
+| Active | background: brand-primary-base<br>_additional basic-black with 32% opacity_<br>text-color: basic-white | ![Primary active](assets/states/positive/primary/active@1x.png) |
+| Disabled | background: brand-disabled-base<br>_with 16% opacity_<br>text-color: brand-disabled-base | ![Primary disabled](assets/states/positive/primary/disabled@1x.png) |
 
 #### Secondary
 
 | Status | Attributes | Preview |
 |---|---|---|
 | Default | outline-color: brand-primary-base<br>text-color: brand-primary-base | ![Secondary default](assets/states/positive/secondary/default@1x.png) |
-| Hover, focus and active | background: brand-primary-base<br>_additional basic-black with 32% opacity_<br>text-color: basic-white| ![Secondary hover, focus & active](assets/states/positive/secondary/active@1x.png) |
-| Disabled | outline-color: brand-primary-base<br>_with 16% opacity_<br>text-color: brand-primary-base<br>_with 16% opacity_| ![Secondary disabled](assets/states/positive/secondary/disabled@1x.png) |
+| Active | background-color: brand-primary-base<br>_additional basic-black with 32% opacity_<br>text-color: basic-white| ![Secondary active](assets/states/positive/secondary/active@1x.png) |
+| Disabled | outline-color: brand-disabled-base<br>_with 16% opacity_<br>text-color: brand-disabled-base | ![Secondary disabled](assets/states/positive/secondary/disabled@1x.png) |
 
 ### Negative
 
-- Hover, focus & active states have an additional gray-base with **32% opacity** to the background.
-- Disabled states have a background and font colors with **16% opacity**.
+- Active state have an additional **gray-base** with **32% opacity** to the background.
+- Disabled states have a background-color with **16% opacity** and a text-color with **32% opacity**.
 
 #### Primary
 
 | Status | Attributes | Preview |
 |---|---|---|
-| Default | background: basic-white<br>text-color: brand-primary-base | ![Primary default](assets/states/negative/primary/default@1x.png) |
-| Hover, focus and active | background: basic-white<br>_additional gray-base with 32% opacity_<br> text-color: brand-primary-base | ![Primary hover, focus & active](assets/states/negative/primary/active@1x.png) |
-| Disabled | background: basic-white<br>_with 16% opacity_<br>text-color: basic-white<br>_with 16% opacity_ | ![Primary disabled](assets/states/negative/primary/disabled@1x.png) |
+| Default | background-color: basic-white<br>text-color: brand-primary-base | ![Primary default](assets/states/negative/primary/default@1x.png) |
+| Active | background-color: basic-white<br>_additional gray-base with 32% opacity_<br> text-color: brand-primary-base | ![Primary active](assets/states/negative/primary/active@1x.png) |
+| Disabled | background-color: basic-white<br>_with 16% opacity_<br>text-color: basic-white<br>_with 32% opacity_ | ![Primary disabled](assets/states/negative/primary/disabled@1x.png) |
 
 #### Secondary
 
 | Status | Attributes | Preview |
 |---|---|---|
-| Default | outline-color: basic-white <br>text-color: basic-white |  ![Secondary default](assets/states/negative/secondary/default@1x.png) |
-| Hover, focus and active | background: basic-white<br>_additional gray-base with 32% opacity_<br>text-color: brand-primary-base | ![Secondary hover, focus & active](assets/states/negative/secondary/active@1x.png) |
-| Disabled | outline-color: basic-white<br>_with 16% opacity_<br>text-color: basic-white<br>_with 16% opacity_ | ![Secondary disabled](assets/states/negative/secondary/disabled@1x.png)|
+| Default | outline-color: basic-white <br>text-color: basic-white | ![Secondary default](assets/states/negative/secondary/default@1x.png) |
+| Active | background-color: basic-white<br>_additional gray-base with 32% opacity_<br>text-color: brand-primary-base | ![Secondary active](assets/states/negative/secondary/active@1x.png) |
+| Disabled | outline-color: basic-white<br>_with 16% opacity_<br>text-color: basic-white<br>_with 32% opacity_ | ![Secondary disabled](assets/states/negative/secondary/disabled@1x.png)|
 
 ---
 

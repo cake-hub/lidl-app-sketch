@@ -26,4 +26,4 @@ Check out our project website under [cake.schwarz](https://cake.schwarz).
 | Jeremias Ehnle | Developer | jeremias.ehnle@lidl.com |
 | Philipp Krüger | Developer | philipp.krueger@lidl.com |
 | Jasmin Sipahi | UI/UX Designer | jasmin.sipahi@lidl.com |
-| Martin Hofmann | UI/UX Designer | martin.hofmann@lidl.com |
+| Dinko Karacic | UI/UX Designer | dinko.karacic@lidl.com |

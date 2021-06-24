@@ -11,7 +11,7 @@ The user info notifications gives the user information about interactions that a
 ## Usage
 
 - It is sticky when scrolling.
-- It leaves after a time x or if the user swips it away.
+- It leaves after a time x or if the user swipes it away.
 - It can not be closed via an "X" or "Close" CTA.
 
 ---
@@ -24,7 +24,8 @@ The user info notifications gives the user information about interactions that a
 
 ## Overall styling
 
-- The text style is **basic**.
+- The text style is [basic](../../../../Web/Design/General/Typography/Typography.md#basic).
+- The line-height is set to **default**.
 - The alert background always is the main-color's **background-color**.
 - The indicator comes in **base-color**.
 - The indicator has a **thickness of 1px**.
@@ -52,10 +53,9 @@ The user info notifications gives the user information about interactions that a
 
 ## What can be modified?
 
-- Override the text and icons.
-- Delete the closing icon if not needed for your project.
+- Override the text.
 - Modify Hints to your project needs by adding other symbols or styles (i.e. like dividers or links).
 
 ### Our workflow in Sketch
 
-- Use the „Overrides“-function to select the required variant, to edit the content, to change the icon if necessary or if the hint can’t be closed.
+- Use the „Overrides“-function to select the required variant or to edit the content.

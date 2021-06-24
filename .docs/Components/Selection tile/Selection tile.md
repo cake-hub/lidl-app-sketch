@@ -6,7 +6,7 @@ Please ensure to comply with the corporate identity. A detailed list what can be
 
 The selection tile is a default tile that can be used in many ways.
 
-It can be modified to visualize tiles like the online shop categories tile, flyer tile and the watch list entries within the Lidl App.
+It can be modified to visualize tiles like the online shop categories tile, flyer tile and the watch list entries within the LIDL App.
 
 ---
 
@@ -22,7 +22,7 @@ It can be modified to visualize tiles like the online shop categories tile, flye
 
 ## Overall styling
 
-- The text-style is **basic-bold**.
+- The text-style is [basic bold](../../../../Web/Design/General/Typography/Typography.md#basic-bold).
 - The line-height is **120%**.
 - The font- and icon-color is **gray-darker**.
 - The components has **rounded corners of 2px**.

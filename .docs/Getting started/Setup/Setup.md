@@ -27,7 +27,7 @@ Follow this tutorial if you:
 
 ### Clone repositories
 
-- **Disconnect your VPN** if you are signed in to the Lidl network and …
+- **Disconnect your VPN** if you are signed in to the LIDL network and …
 - **Switch your WiFi connection** to a free wifi (e.g. welcome@schwarz) if you are working in one of our offices.
 
 | Steps | Description | Preview |
@@ -59,7 +59,7 @@ Follow this tutorial if you already:
 
 ### Replace repositories
 
-- **Disconnect your VPN** if you are signed in to the Lidl network and …
+- **Disconnect your VPN** if you are signed in to the LIDL network and …
 - **Switch your WiFi connection** to a free wifi (e.g. welcome@schwarz) if you are working in one of our offices.
 
 | Steps | Description | Preview |

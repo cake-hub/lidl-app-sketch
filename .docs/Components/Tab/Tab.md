@@ -18,7 +18,7 @@ Tabs organize the content across different screen areas.
 
 ## Overall styling
 
-- The text-style is **basic-bold**.
+- The text-style is [basic bold](../../../../Web/Design/General/Typography/Typography.md#basic-bold).
 - The line-height is **120%**.
 - The indicator has a **thickness of 2px**.
 - The background-color always is **basic-white**.
@@ -40,7 +40,7 @@ Tabs organize the content across different screen areas.
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Horizontal spacing | The text is centered | ![horizontal-spacing](assets/measurements/horizontal-spacing@1x.png) |
+| Horizontal spacing | The tab component can be variable in width but the text is always centered and has a minimum spacing of 8px. | ![horizontal-spacing](assets/measurements/horizontal-spacing@1x.png) |
 | Vertical spacing | 8px | ![vertical-spacing](assets/measurements/vertical-spacing@1x.png) |
 
 ---

@@ -12,12 +12,11 @@ Use it on maps to show a store location or store groups.
 
 ## Overall styling
 
-- The text-style is **basic bold**.
-- The font-color is **basic-white**.
+- The text-style is [basic bold](../../../../Web/Design/General/Typography/Typography.md#basic-bold).
 - The line-height is **120%**.
-- The text is **centered horizontally** in the circle.
+- The font-color is **basic-white**.
 - The background-color is **brand-primary-base**.
-- The border is in **basic-white** with a 1px thickness.
+- The border is in **basic-white** with a **1px thickness**.
 
 ---
 
@@ -34,6 +33,7 @@ Use it on maps to show a store location or store groups.
 | Types | Attributes | Preview |
 |---|---|---|
 | Size | single-digit: 40px <br> double-digit: 48px <br> triple-digit: 56px | ![Size: Single](assets/size/01-single-digit@1x.png) ![Size: Double](assets/size/02-double-digit@1x.png) ![Size: Triple](assets/size/03-triple-digit@1x.png)|
+|Text| **horizontally** and **vertically centered** in the circle| ||
 
 ---
 
