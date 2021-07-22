@@ -2,7 +2,7 @@
 It is mandatory to maintain the appearance and behavior of these components.
 </AlertWarning>
 
-# Grid System
+# Grid system
 
 A grid system can be use to align and size objects within a given format.
 

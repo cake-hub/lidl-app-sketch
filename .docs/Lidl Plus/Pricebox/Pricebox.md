@@ -29,7 +29,7 @@ The LIDL Plus pricebox is a combination of different single elements:
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 - All the single spacing and measurements for every component can be found under the standard [pricebox](../../Components/Pricebox/Pricebox.md#spacing--measurements).
 
@@ -40,7 +40,7 @@ The LIDL Plus pricebox is a combination of different single elements:
 
 ---
 
-## Position & Combinations
+## Position & combinations
 
 > Use it only in combination with a **product tile, teaser or image**.
 

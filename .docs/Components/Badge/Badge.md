@@ -63,7 +63,7 @@ Basically they are positioned in the product tile or the tab bar.
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 ### Standard
 

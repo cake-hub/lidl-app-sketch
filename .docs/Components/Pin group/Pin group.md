@@ -2,7 +2,7 @@
 Please ensure to comply with the corporate identity. A detailed list what can be modified can be found [here](#what-can-be-modified).
 </AlertInfo>
 
-# Pin Group
+# Pin group
 
 The pin group is used for the store finder in the app.
 

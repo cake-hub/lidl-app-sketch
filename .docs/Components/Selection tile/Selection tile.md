@@ -2,7 +2,7 @@
 Please ensure to comply with the corporate identity. A detailed list what can be modified can be found [here](#what-can-be-modified).
 </AlertInfo>
 
-# Selection Tile
+# Selection tile
 
 The selection tile is a default tile that can be used in many ways.
 
@@ -32,7 +32,7 @@ It can be modified to visualize tiles like the online shop categories tile, flye
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 ### With image
 

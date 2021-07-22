@@ -2,7 +2,7 @@
 Please ensure to comply with the corporate identity. A detailed list what can be modified can be found [here](#what-can-be-modified).
 </AlertInfo>
 
-# User Info
+# User info
 
 The user info notifications gives the user information about interactions that are happening in the current moment. It only shows system based information like "Item added to your basket". It automatically slides from above into the screen.
 
@@ -42,7 +42,7 @@ The user info notifications gives the user information about interactions that a
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Types | Attributes | Preview |
 |---|---|---|

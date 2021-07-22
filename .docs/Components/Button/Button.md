@@ -74,7 +74,7 @@ The actions can be separated into two buttons. The design of two different butt
 
 ## Overall styling
 
-- The text-style is [button-text](../../../../Web/Design/General/Typography/Typography.md#button-text)
+- The text-style is [button-text](../../../../Web/Design/General/Typography/Typography.md#button-text).
 - The line-height is set to **default**.
 - All buttons have **rounded corners** with **2px radius**.
 - Secondary buttons have a **outline** with a **1px thickness**.
@@ -123,12 +123,12 @@ The actions can be separated into two buttons. The design of two different butt
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Type | Attributes | Preview |
 |---|---|---|
-| Horizontal | padding-left: 16px<br>padding-right: 16px<br>margin: 8px | ![button: padding](assets/measurements/horizontal-padding@1x.png) |
-| Vertical | text is _vertically centered_ | ![button: padding](assets/measurements/vertical-padding@1x.png) |
+| Horizontal | Buttons can be variable in width but icon and text are always centered and have 16px minimum spacing left and right. Spacing between icon and button text is always 8px. | ![button: padding](assets/measurements/horizontal-padding@1x.png) |
+| Vertical | Text is _vertically centered_ | ![button: padding](assets/measurements/vertical-padding@1x.png) |
 | Height | 40px | ![button: height](assets/measurements/height@1x.png) |
 | Distance  | 8px between two buttons | ![button: padding](assets/measurements/distance@1x.png) |
 | Icon size | icon-size: 24x24px | ![button: icon-size](assets/measurements/icon-size@1x.png) |

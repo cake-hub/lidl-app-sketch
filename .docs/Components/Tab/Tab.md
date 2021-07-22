@@ -36,7 +36,7 @@ Tabs organize the content across different screen areas.
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Types | Attributes | Preview |
 |---|---|---|

@@ -70,7 +70,7 @@ The hint notifications gives the user information about important content inform
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Types | Attributes | Preview |
 |---|---|---|
@@ -82,7 +82,7 @@ The hint notifications gives the user information about important content inform
 
 ## Specials
 
-- Hints can also be used in their brand-primary color besides or with just a different meaning to the „info“-hint (i.e. „brand-primary“ or „wine“)
+- Hints can also be used in their brand-primary color besides or with just a different meaning to the „info“-hint (i.e. „brand-primary“ or „wine“).
 
 ---
 
@@ -95,4 +95,3 @@ The hint notifications gives the user information about important content inform
 ### Our workflow in Sketch
 
 - Use the „Overrides“-function to select the required variant, to edit the content, to change the icon if necessary or if the hint can’t be closed.
-- 
