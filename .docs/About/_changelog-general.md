@@ -1,5 +1,12 @@
 # Change log
 
+## [2.2.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v2.2.0) & [2.2.0 App](https://github.com/cake-hub/lidl-app-sketch/tree/v2.2.0) - 2021-10-01
+
+### Highlights
+
+* `Sketch`, `Doc`: "Availability badges" | New availability badges are available
+
+
 ## [1.1.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v1.1.0) & [1.1.0 App](https://github.com/cake-hub/lidl-app-sketch/tree/v1.1.0) - 2021-01-26
 
 ### Highlights
