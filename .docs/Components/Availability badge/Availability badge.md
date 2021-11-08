@@ -33,7 +33,7 @@ Type | In stock | Low stock | Out of stock | Info
 
 ## Overall styling
 
-- The text-style is [small](../../General/Typography/Typography.md#small).
+- The text-style is [small](/Lidl/Web/Design/General/Typography/Typography.html#small).
 - The line-height is set to **120%**.
 - The text-color is always **gray-darker**.
 - It always has **12px rounded corners** and this includes the case when the badge has two lines of text.

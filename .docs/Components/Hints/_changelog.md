@@ -1,5 +1,12 @@
 # Change log
 
+## [2.2.0+docs.1 App](https://github.com/cake-hub/lidl-app-sketch/tree/v2.2.0+docs.1) - 2021-11-08
+
+### Changed
+
+* `Doc`: "Hints" | Update absolute links to design documentation with relative links (now they will open in the same tab)
+
+
 ## [2.1.0 App](https://github.com/cake-hub/lidl-app-sketch/tree/v2.1.0) - 2021-07-22
 
 ### Changed

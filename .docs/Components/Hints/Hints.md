@@ -32,7 +32,7 @@ The hint notifications gives the user information about important content inform
 
 ## Overall styling
 
-- The text style is [large-bold](https://www.cake.schwarz/Lidl/Web/Design/General/Typography/Typography.html#large-bold) for the **title** and [basic](https://www.cake.schwarz/Lidl/Web/Design/General/Typography/Typography.html#basic) for the **text**.
+- The text style is [large-bold](../../../../Web/Design/General/Typography/Typography.html#large-bold) for the **title** and [basic](../../../../Web/Design/General/Typography/Typography.html#basic) for the **text**.
 - The line-height for the "hint title" is **120%**, it stays **140%** for the "hint text".
 - Every variant uses the **darker-color** as **text-** and **icon-color**.
 - The outline comes in **base-color**.
