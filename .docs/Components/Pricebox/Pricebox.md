@@ -160,6 +160,12 @@ The pricebox contains several obligatory and optional elements and is available 
 
 ---
 
+## Currencies examples
+
+Overview of priceboxes with different currency examples can be found [here](../../../../Web/Design/Components/Pricebox/Pricebox.md#currencies-examples).
+
+---
+
 ## Our workflow in Sketch
 
 - Use the "Overrides"-function to change the text.

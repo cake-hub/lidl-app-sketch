@@ -1,5 +1,12 @@
 # Change log
 
+## [2.3.0 App](https://github.com/cake-hub/lidl-app-sketch/tree/v2.3.0) - 2021-11-29
+
+### Added
+
+* `Doc`: "Pricebox" | Added currencies examples
+
+
 ## [2.1.0 App](https://github.com/cake-hub/lidl-app-sketch/tree/v2.1.0) - 2021-07-22
 
 ### Changed
