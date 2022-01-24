@@ -1,5 +1,11 @@
 # Change log
 
+## [2.3.1 App](https://github.com/cake-hub/lidl-app-sketch/tree/v2.3.1) - 2022-01-24
+
+### Fixed
+
+* `Sketch`: "Button" | Centered text and icon for correct responsive behavior
+
 ## [2.1.0 App](https://github.com/cake-hub/lidl-app-sketch/tree/v2.1.0) - 2021-07-22
 
 ### Changed
