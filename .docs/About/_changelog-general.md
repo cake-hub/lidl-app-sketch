@@ -1,5 +1,12 @@
 # Change log
 
+## [2.4.0 App](https://github.com/cake-hub/lidl-app-sketch/tree/v2.4.0) - 2022-02-10
+
+### Changed
+
+* `Sketch`: "Symbols that contain icons" | Icons have been updated with the newest versions from brand portal
+
+
 ## [2.2.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v2.2.0) & [2.2.0 App](https://github.com/cake-hub/lidl-app-sketch/tree/v2.2.0) - 2021-10-01
 
 ### Highlights
