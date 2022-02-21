@@ -1,6 +1,6 @@
 # Change log
 
-## [2.4.0+doc.1 App](https://github.com/cake-hub/lidl-app-sketch/tree/v2.4.0+doc.1) - 2022-02-21
+## [2.5.0 App](https://github.com/cake-hub/lidl-app-sketch/tree/v2.5.0) - 2022-02-21
 
 ### Added
 
