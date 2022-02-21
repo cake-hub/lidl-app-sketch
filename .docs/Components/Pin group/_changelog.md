@@ -1,5 +1,12 @@
 # Change log
 
+## [2.4.0+doc.1 App](https://github.com/cake-hub/lidl-app-sketch/tree/v2.4.0+doc.1) - 2022-02-21
+
+### Deprecated
+
+* `Sketch`, `Doc`: "Pin group" | The pin group component is obsolete
+
+
 ## [2.1.0 App](https://github.com/cake-hub/lidl-app-sketch/tree/v2.1.0) - 2021-07-22
 
 ### Changed

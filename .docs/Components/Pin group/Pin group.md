@@ -1,6 +1,6 @@
-<AlertInfo alertHeadline="Modifiable">
-Please ensure to comply with the corporate identity. A detailed list what can be modified can be found [here](#what-can-be-modified).
-</AlertInfo>
+<AlertWarning alertHeadline="Deprecated">
+This component is deprecated and will be no longer supported.
+</AlertWarning>
 
 # Pin group
 

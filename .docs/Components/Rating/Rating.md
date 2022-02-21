@@ -1,5 +1,5 @@
 ****<AlertInfo alertHeadline="Modifiable">
-Please ensure to comply with the corporate identity.
+Please ensure to comply with the corporate identity. What can be modified can be found [here](#what-can-be-modified)
 </AlertInfo>
 
 # Rating
@@ -11,25 +11,38 @@ The product rating is visually represented with a star rating.
 ## Recommendations
 
 - The maximum number of 5 stars can be reached.
-- If the product has not yet been rated, no stars will appear in the product tile.
+- If the product has not yet been rated, no stars will appear.
 - The number in the bracket indicates how many users have already submitted a rating.
+
+---
+
+## Elements
+
+The rating component consists of:
+
+![rating-element](assets/rating/elements@1x.png)
+
+1. Stars
+2. Rating number
 
 ---
 
 ## Overall styling
 
-- The text style is [basic](../../General/Typography/Typography.md#basic).
+- The text style is [basic](../../../../Web/Design/General/Typography/Typography.md#basic).
 - The line-height is set to **default**.
-- The icon **star-fill** or **star-half** is used.
-- The font color is **brand-primary-base**.
+- The icon **star-fill** or **star-percentage** is used.
 
-![rating](assets/rating@1x.png)
-
-State | Attributes | Preview
----------|----------|---------
- Default | background-color: gray-light | ![rating-default](assets/states/star-default@1x.png)
- Hover-focus | background-color: mark-dark | ![rating-hover-focus](assets/states/star-hover-focus@1x.png)
- Selected | background-color: mark-darker  | ![rating-selected](assets/states/star-selected@1x.png)
+Types | State | Attributes | Preview
+---------| ---------|----------|---------
+star | default | background-color: gray-light | ![rating-default](assets/states/star-default@1x.png)
+star | hover-focus | background-color: gray-lighter | ![rating-default](assets/states/star-default-hover-focus@1x.png)
+star-selected | default | background-color: mark-darker  | ![rating-selected](assets/states/star-selected@1x.png)
+star-selected | hover-focus | background-color: mark-dark | ![rating-hover-focus](assets/states/star-hover-focus@1x.png)
+component with stars | default| star background-color: gray-light<br> rating number color: brand-primary-base| ![rating default](assets/rating@1x.png)
+component with stars | hover-focus | star background-color: gray-lighter <br> rating number color: brand-primary-darker | ![rating hover-focus](assets/rating/star-1/interactive/hover-focus@1x.png)
+component with stars-selected | default| star background-color: gray-light<br>star-selected background-color: mark-darker<br> rating number color: brand-primary-base| ![rating default](assets/rating-selected@1x.png)
+component with stars-selected | hover-focus | star background-color: gray-lighter <br>star-selected background-color: mark-dark<br> rating number color brand-primary-darker| ![rating hover-focus](assets/rating/star-1/interactive/selected-hover-focus@1x.png)
 
 ---
 
@@ -48,6 +61,7 @@ State | Attributes | Preview
 ## Behavior
 
 The inside of the last star item can be filled from left to right based on percentages.
+A rating can be interactive (e.g. on product detail page) or static (e.g. on product tile). If the rating is static the rating component has **no hover-focus state**.
 
 ---
 
@@ -65,6 +79,8 @@ The inside of the last star item can be filled from left to right based on perce
 ---
 
 ## Examples
+
+ This is a non-obligatory example of the positioning of the star rating on the product tile.
 
 ![position](assets/example-rating@1x.png)
 
