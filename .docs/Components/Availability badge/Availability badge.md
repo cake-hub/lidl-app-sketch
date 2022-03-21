@@ -16,7 +16,7 @@ If there is a need to display retail store availability on a map then use [store
 
 Type | In stock | Low stock | Out of stock | No data | Info
 ---------|----------|---------|---------|---------|---------
- online store | ![in stock](assets/versions/online-deliverable@1x.png) | ![low stock](assets/versions/online-low-stock@1x.png) | ![out of stock](assets/versions/online-out-of-stock@1x.png) | - | -
+ online store | ![in stock](assets/versions/online-deliverable@1x.png) | ![low stock](assets/versions/online-low-stock@1x.png) | ![out of stock](assets/versions/online-out-of-stock@1x.png) | - | ![soon available](assets/versions/online-soon-available@1x.png)
  retail store | ![in stock](assets/versions/retail-available@1x.png) | ![low stock](assets/versions/retail-low-stock@1x.png) | ![out of stock](assets/versions/retail-out-of-stock@1x.png) | ![no data available](assets/versions/no-data-available@1x.png) | ![also in retail](assets/versions/retail-also-in-retail@1x.png) <br> ![from date in retail](assets/versions/retail-dd-mm-retail@1x.png)
 
 ---
@@ -40,10 +40,10 @@ Type | In stock | Low stock | Out of stock | No data | Info
 
 ### Online store
 
-Title | In stock | Low stock | Out of stock 
----------|----------|---------|---------
- Preview | ![in stock](assets/versions/online-deliverable@1x.png) | ![low stock](assets/versions/online-low-stock@1x.png) | ![out of stock](assets/versions/online-out-of-stock@1x.png) 
- Attributes | background: success-lighter <br> dot: success-base | background: mark-light <br> dot: mark-darker | background: danger-lighter <br> dot: danger-dark 
+Title | In stock | Low stock | Out of stock | Info 
+---------|----------|---------|---------|---------
+ Preview | ![in stock](assets/versions/online-deliverable@1x.png) | ![low stock](assets/versions/online-low-stock@1x.png) | ![out of stock](assets/versions/online-out-of-stock@1x.png) | ![soon available](assets/versions/online-soon-available@1x.png)
+ Attributes | background: success-lighter <br> dot: success-base | background: mark-light <br> dot: mark-darker | background: danger-lighter <br> dot: danger-dark | background: gray-lighter
 
 ### Retail store
 

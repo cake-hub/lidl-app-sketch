@@ -1,5 +1,11 @@
 # Change log
 
+## [2.6.0 App](https://github.com/cake-hub/lidl-app-sketch/tree/v2.6.0) - 2022-03-21
+
+### Fixed
+
+* `Doc`: "Rating" | Jumpmark to what can be modified
+
 ## [2.5.0 App](https://github.com/cake-hub/lidl-app-sketch/tree/v2.5.0) - 2022-02-21
 
 ### Added

@@ -86,7 +86,11 @@ A rating can be interactive (e.g. on product detail page) or static (e.g. on pro
 
 ---
 
-## Our workflow in Sketch
+## What can be modified?
+
+- Override the text and select the status of the stars.
+
+### Our workflow in Sketch
 
 - Use the "Overrides"-function to change the number of stars.
 
