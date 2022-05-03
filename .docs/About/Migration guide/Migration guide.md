@@ -1,5 +1,37 @@
 # Migration guide
 
+## Update version 2.x to 3.x
+
+### New Grid margins and XS breakpoint
+
+![Grid setting update](assets/new-grid/update-grid-settings@1x.png)
+
+The new grid settings now provide more design options. The current Breakpoint XS has been updated to the latest data sets.<br>
+To continue working on existing designs with the new grid settings, we recommend following these steps in Sketch:
+
+### Step 1: Update the grid settings
+Ensure that the **latest library version** is connected. Easily proof it over **Preferences/Libraries**<br>
+Proof the **artboard sizes** for your project.<br>
+Select your artboard and edit on the custom toolbar **View/Layout settings** or navigate on the menu item **View/Canvas/Layout settings**. Enter the new documented values for the selected breakpoint and confirm.
+
+### Step 2: Update components
+
+
+Description | Preview
+---------|----------
+ With an existing design, Sketch displays a notification at the top right corner. <br>༼ つ ◕_◕ ༽つ Click on it! | ![Step-1](assets/new-grid/step-1.png) 
+ The Sketch interface shows a list of all changed components. Check the listed components and confirm the updates. | ![Step-2](assets/new-grid/step-2.png)
+ Select the component on your artboard and choose the same component from the **Symbol drop-down** list to get the new sizes. | ![Step-3](assets/new-grid/step-3.png)
+ ٩(^‿^)۶<br>Tadaaaa!!<br> The component should now fits on the new grid settings. | ![Step-3](assets/new-grid/step-3.png)
+
+ A short workflow should demonstrate how easily it is to update your placed components on your designs.
+
+ ![How to update placed](assets/new-grid/how-to.gif)
+
+
+---
+
+
 ## Update version 1.x to 2.x
 
 ### New Pricebox updates

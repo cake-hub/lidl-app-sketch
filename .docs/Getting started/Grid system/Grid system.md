@@ -18,7 +18,7 @@ A grid system can be use to align and size objects within a given format.
 
 | 1. Columns | 2. Gutters | 3. Margins |
 |---|---|---|
-| Content is placed in the areas of the screen that contain columns.<br>The number of columns displayed is determined by the selected device. | Gutters are the spaces between columns.<br> They help separate contents. | Margins are the space between content and the left and right edges of the screen. |
+| Content is placed in the areas of the screen that contain columns.<br> The number of displayed columns is determined by the breakpoint that is choosen. | Gutters are the spaces between columns.<br> They help separate content and have a **fixed value** of 16px for phone and tablet. | Margins are the space between content and the left and right edges of the screen. They have **fixed values** (16px or 32px) for phone and tablet. |
 
 ![Grid Setup](assets/setup_grid_LG@1x.png)
 
@@ -36,9 +36,9 @@ A grid system can be use to align and size objects within a given format.
 | Artboard | portrait mode | landscape mode |
 |---|---|---|
 | Viewport | 360px | 640px |
-| Columns | 8 columns | 8 columns |
-| Gutters | 8px | 8px |
-| Offset/border | 16px / 16px | 16px / 16px |
+| Columns | 4 columns | 12 columns |
+| Gutters | 16px | 16px |
+| Offset/Margins | 16px / 16px | 32px / 32px |
 | Layout settings | ![Phone portrait](assets/Phone/portrait@1x.png) | ![Phone landscape](assets/Phone/landscape@1x.png) |
 
 ### Tablet
