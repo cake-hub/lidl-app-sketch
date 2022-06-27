@@ -19,7 +19,7 @@ Ad-tag component shows to the user that certain component is used for advertisin
 - The symbol has a general basic-white background for image advertisements.
 - The background can be changed to the transparent background when it is placed below a component, e.g. recommendation slider.
 - The ad-tag with transperency background works only on light backgrounds such as e.g gray-background.
-- The expression exclamation-circle icon is **optional** and can trigger a [popover](../Popover/Popover.md).
+- The expression exclamation-circle icon is **optional** and can trigger a modal view/sheet.
 - The text-length is limited to a **single word** only.
 - The whole area of ad-tag is interactive.
 

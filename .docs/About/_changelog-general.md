@@ -1,5 +1,12 @@
 # Change log
 
+## [3.1.0 App](https://github.com/cake-hub/lidl-app-sketch/tree/v3.1.0) - 2022-06-27
+
+### Added
+
+* `Sketch`, `Doc`: "Ad-tag" | Added new component
+
+
 ## [2.4.0 App](https://github.com/cake-hub/lidl-app-sketch/tree/v2.4.0) - 2022-02-10
 
 ### Changed
