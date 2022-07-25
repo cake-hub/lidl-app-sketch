@@ -1,5 +1,28 @@
 # Migration guide
 
+## Update version 3.x to 4.x
+
+### Lidl Plus Pricebox and Lidl Plus Coupons updates
+
+Based on the legal info requirements the Lidl Plus Pricebox and Coupons had to be adjusted.
+
+![Lidl Plus PriceBox Coupon update](assets/lidl-plus/coupon-pricebox-update.png)
+
+Ensure that the components fit to your exsiting layouts and please follow the steps below:
+
+## Step 1: Update library
+Ensure that you have connected the latest **library version**. Easily proof it in **Preferences/Libraries**<br>
+Proof existing coupon or pricebox elements inside your layout.
+
+## Step 2: Update Component
+Select the existing component e.g Lidl Plus pricebox and replace it via symbol dropdown with the updated version.
+
+![PriceBox workflow](assets/lidl-plus/workflow.png)
+
+
+---
+
+
 ## Update version 2.x to 3.x
 
 ### New Grid margins and XS breakpoint

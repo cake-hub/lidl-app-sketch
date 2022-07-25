@@ -1,5 +1,17 @@
 # Change log
 
+## [4.0.0 App](https://github.com/cake-hub/lidl-app-sketch/tree/v4.0.0) - 2022-07-25
+
+### Added
+
+* `Doc`: "Home Device Illustration" | Moved guide from content into app
+* `Doc`: "Lidl Home" | Added styleguide on a new section
+
+### Highlights
+
+* `Sketch`, `Doc`: "LIDL Plus Coupon" | Added new component
+
+
 ## [3.1.0 App](https://github.com/cake-hub/lidl-app-sketch/tree/v3.1.0) - 2022-06-27
 
 ### Added

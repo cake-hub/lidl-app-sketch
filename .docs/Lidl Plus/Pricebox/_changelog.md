@@ -1,5 +1,12 @@
 # Change log
 
+## [4.0.0 App](https://github.com/cake-hub/lidl-app-sketch/tree/v4.0.0) - 2022-07-25
+
+### Highlights
+
+* `Sketch`, `Doc`: "LIDL Plus Pricebox" | Updated LIDL Plus pricebox with new legal info requirement
+
+
 ## [2.1.0 App](https://github.com/cake-hub/lidl-app-sketch/tree/v2.1.0) - 2021-07-22
 
 ### Changed
