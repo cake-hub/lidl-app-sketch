@@ -28,7 +28,7 @@ Use this component if there is no possibility to display a specific product pric
 
 ### Discount
 
-- The text-style is [pricebox-small](/Lidl/Web/Design/General/General/Typography/Typography.md#pricebox-small).
+- The text-style is [pricebox-small](/Lidl/Web/Design/General/Typography/Typography.md#pricebox-small).
 - This element has **rounded corners of 2px** on the **upper left and right corner**.
 
 | Attributes | Preview |

@@ -10,7 +10,7 @@ Ad-tag component shows to the user that certain component is used for advertisin
 
 ## Overall styling
 
-- The text-style is [small](../../General/Typography/Typography.md#small).
+- The text-style is [small](/Lidl/Web/Design/General/Typography/Typography.md#small).
 - The line-height is set to **default**.
 - The color is set to **gray-darker**.
 
