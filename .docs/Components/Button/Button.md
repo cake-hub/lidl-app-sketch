@@ -89,7 +89,7 @@ The actions can be separated into two buttons. The design of two different butt
 | State | Attributes | Preview |
 |---|---|---|
 | Default | background-color: brand-primary-base<br>text-color: basic-white | ![Primary default](assets/states/positive/primary/default@1x.png) |
-| Active | background: brand-primary-base<br>_additional basic-black with 32% opacity_<br>text-color: basic-white | ![Primary active](assets/states/positive/primary/active@1x.png) |
+| Active | background: brand-primary-darker<br>text-color: basic-white | ![Primary active](assets/states/positive/primary/active@1x.png) |
 | Disabled | background: brand-disabled-base<br>_with 16% opacity_<br>text-color: brand-disabled-base | ![Primary disabled](assets/states/positive/primary/disabled@1x.png) |
 
 #### Secondary
@@ -97,7 +97,7 @@ The actions can be separated into two buttons. The design of two different butt
 | Status | Attributes | Preview |
 |---|---|---|
 | Default | outline-color: brand-primary-base<br>text-color: brand-primary-base | ![Secondary default](assets/states/positive/secondary/default@1x.png) |
-| Active | background-color: brand-primary-base<br>_additional basic-black with 32% opacity_<br>text-color: basic-white| ![Secondary active](assets/states/positive/secondary/active@1x.png) |
+| Active | background-color: brand-primary-darker<br>text-color: basic-white| ![Secondary active](assets/states/positive/secondary/active@1x.png) |
 | Disabled | outline-color: brand-disabled-base<br>_with 16% opacity_<br>text-color: brand-disabled-base | ![Secondary disabled](assets/states/positive/secondary/disabled@1x.png) |
 
 ### Negative

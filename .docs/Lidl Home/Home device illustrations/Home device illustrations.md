@@ -67,6 +67,7 @@ Material | Gradient | Preview
 Flat surface | weak, simple gradient | ![asset/gradient flat surface](assets/examples/gradient/flat-surface@1x.png)
 Light simulation | weak, simple gradient | ![asset/gradient light simulation](assets/examples/gradient/light-simulation@1x.png)
 Rounding | stronger, complexer gradient | ![asset/gradient rounding](assets/examples/gradient/rounding@1x.png)
+ Gradient fade out placed on dark background | Make sure the gradient mesh is colored correctly on the outer points. Don't make them white, as this will cause a grey shine around the edges on darker backgrounds.| ![asset/light bulb rgb front view](assets/examples/dark-background.png)
 
 These are a non-obligatory examples of different devices in the desired illustration style.
 

@@ -1,5 +1,12 @@
 # Change log
 
+## [4.1.0 App](https://github.com/cake-hub/lidl-app-sketch/tree/v4.1.0) - 2022-09-05
+
+### Changed
+
+* `Doc`: "Button" | Changed color description for hover-focus-active state
+
+
 ## [2.3.1 App](https://github.com/cake-hub/lidl-app-sketch/tree/v2.3.1) - 2022-01-24
 
 ### Fixed
