@@ -1,5 +1,12 @@
 # Change log
 
+## [4.2.0 App](https://github.com/cake-hub/lidl-app-sketch/tree/v4.2.0) - 2024-06-27
+
+### Changed
+
+* `Doc`: "Lidl PLus Pricebox" | Lidl PLus Pricebox documentation with the new standards informations
+
+
 ## [4.0.0 App](https://github.com/cake-hub/lidl-app-sketch/tree/v4.0.0) - 2022-07-25
 
 ### Highlights
